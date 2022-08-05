@@ -7,11 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.WebAPI", "Eleven
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ElevenNote.WebAPI", "ElevenNote.WebAPI", "{A635E95F-3146-4674-BA84-CCCAF3A16B89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Data", "ElevenNote.WebAPI\ElevenNote.Data\ElevenNote.Data.csproj", "{04B18826-B23D-432A-9F5D-58FF9F864CC1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Data", "ElevenNote.Data\ElevenNote.Data.csproj", "{04B18826-B23D-432A-9F5D-58FF9F864CC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Models", "ElevenNote.WebAPI\ElevenNote.Models\ElevenNote.Models.csproj", "{EFE63364-F9FF-4854-A329-A531AB627148}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Models", "ElevenNote.Models\ElevenNote.Models.csproj", "{EFE63364-F9FF-4854-A329-A531AB627148}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Services", "ElevenNote.WebAPI\ElevenNote.Services\ElevenNote.Services.csproj", "{0D17E0E0-D3F5-4A2F-BD27-5B81033BE5CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Services", "ElevenNote.Services\ElevenNote.Services.csproj", "{0D17E0E0-D3F5-4A2F-BD27-5B81033BE5CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
