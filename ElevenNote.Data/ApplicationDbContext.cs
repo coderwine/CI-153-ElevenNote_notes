@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ElevenNote.Data.Entities;  // Proivdes us connectivity to the UserEntity.
 using Microsoft.EntityFrameworkCore; // Gives us access to the DbContext class that is being inherited
 
 namespace ElevenNote.Data
@@ -13,5 +14,7 @@ namespace ElevenNote.Data
         {
             
         }
+
+        public DbSet<UserEntity> Users { get; set; }
     }
 }
